@@ -1,0 +1,3 @@
+/home/bi/uni/3an/1sem/egc/Mini-Metro-clone/CMakeFiles/GFXFramework.dir
+/home/bi/uni/3an/1sem/egc/Mini-Metro-clone/CMakeFiles/edit_cache.dir
+/home/bi/uni/3an/1sem/egc/Mini-Metro-clone/CMakeFiles/rebuild_cache.dir
