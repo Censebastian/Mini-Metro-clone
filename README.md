@@ -8,7 +8,7 @@ Some of the meshes and some boilerplate code was generated using Gemini.
 
 ## How to run
 
-Run cmake in the repositorie's directory then run ./bin/Debug/GFXFramework and start playing.
+Run cmake in the repository's directory then run ./bin/Debug/GFXFramework and start playing.
 
 ## Controls
 
